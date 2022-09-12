@@ -1,6 +1,7 @@
 package lab_4;
 import java.util.Scanner;
 public class Q1 {
+// To print combinations of 3 numbers
 public static void main(String[]args) {
 	int num=0;
 	 System.out.println("enter the number from range (0-9)");
